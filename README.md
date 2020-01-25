@@ -2,7 +2,7 @@
 A simple Contact List app with a working search box; created as an introduction to React
 
 ## 'master' Branch
-* Contains all source code
+* Contains all original source code from development environment
 
 ## 'gh-pages' Branch
 * Contains project Build files 
