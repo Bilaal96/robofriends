@@ -6,3 +6,4 @@ A simple Contact List app with a working search box; created as an introduction 
 
 ## 'gh-pages' Branch
 * Contains project Build files 
+* See the github pages link above for the live site
