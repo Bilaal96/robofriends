@@ -1,7 +1,7 @@
 # RoboFriends
 
-# 'master' Branch
+## 'master' Branch
 * Contains all source code
 
-# 'gh-pages' Branch
+## 'gh-pages' Branch
 * Contains project Build files 
